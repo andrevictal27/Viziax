@@ -1,3 +1,5 @@
+CA: 8ML2fobh6FVFsuaMshnKZMFBE313kRcDgqi7uBijpump
+
 # Viziax 🤖🧠
 
 AI imagined images. Pythonic generation of stable diffusion images **and videos** *!.
